@@ -13,6 +13,8 @@ This project seeks to address these challenges by leveraging data analysis and v
 
 **Tools and Technologies Used**
 
-Programming Languages: Python (for data analysis, visualization, and dashboard creation)/n
-Libraries: Pandas, Matplotlib, Seaborn, Plotly, NumPy/n
+Programming Languages: Python (for data analysis, visualization, and dashboard creation)
+
+Libraries: Pandas, Matplotlib, Seaborn, Plotly, NumPy
+
 Dashboard: PowerBI
